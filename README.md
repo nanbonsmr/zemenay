@@ -1,6 +1,5 @@
 # Welcome to zemenaytech hackatons
 
-
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -20,6 +19,11 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
+## Live Demo
+
+- [Live Demo](https://zemenay.netlify.app)
+- [Video Demo](https://zemenay.netlify.app)
 
 **Edit a file directly in GitHub**
 
