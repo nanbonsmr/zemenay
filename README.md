@@ -23,7 +23,7 @@ npm run dev
 ## Live Demo
 
 - [Live Demo](https://zemenay.netlify.app)
-- [Video Demo](https://youtu.be/VQVFKLkfdVY?si=9w7V42o2-HWg3rCG)
+- [Video Demo](https://youtu.be/8hKOnPHxHpU?si=qxlgKoSoy5G71Ret)
 
 **Edit a file directly in GitHub**
 
